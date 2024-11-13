@@ -1,0 +1,27 @@
+.col-md-5{
+  background-color: #ababab;
+  padding-top: 20px;
+  padding-bottom:1px;
+  border-radius: 10px;
+}
+
+body {
+  background-color: #262626;
+}
+
+h1 {
+   color: white;
+   font-size: 70px;
+   font-family: Sans-serif;
+}
+
+button {
+  background-color: #262626;
+  color: white;
+  border-radius: 10px;
+  width: 300px;
+}
+
+a {
+  color: white;
+}
